@@ -1,3 +1,3 @@
 # odin-landing-page
 
-Landing page using HTML and CSS
+Landing page using HTML and CSS.
